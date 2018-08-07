@@ -3,7 +3,7 @@ variable "ami" {}
 variable "num_webs" {}
 
 variable "public_key" {}
-variable "private_key {}
+variable "private_key" {}
 
 variable "subnet_id" {}
 variable "vpc_security_group_id" {}
